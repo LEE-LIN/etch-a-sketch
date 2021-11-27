@@ -1,0 +1,12 @@
+#sketchpad {
+    display: grid;
+    width: 600px;
+    height: 600px;
+    border: black solid 4px;
+}
+
+.pix {
+    margin: 0;
+    padding: 0;
+}
+
